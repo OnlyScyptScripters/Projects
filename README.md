@@ -8,3 +8,7 @@ Reason: this script didn't private, it useless to leak this
 ```
 OnlyScyptScripters/LordDarkinian
 ```
+## Library Used
+```
+Discord UI
+```
